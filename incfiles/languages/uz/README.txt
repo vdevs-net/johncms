@@ -2,9 +2,8 @@ Uzbek language pack v1.1
 ============================================================
  TIL PAKET HAQIDA:
  Ushbu til paket JohnCMS uchun mo'ljallangan.
-Til paket ShukrulloX (aka r00t shukrullo@umail.uz) va Sard0r(go_sari@mail.ru) tarjimasi asosida qayta tahrirlangan.
-Til paketni qayta tahrirlashda quyidagi tarjimonlar jonbozlik ko'rsatishgan:
-  - r00t
+Til paket Sard0r(go_sari@mail.ru) tarjimasi asosida qayta taxrirlangan.
+Til paketni qayta taxrirlashda quyidagi masterlar jonbozlik ko'rsatishgan:
   - GeniuSBoY
   - Udesign
   - MoRGaN

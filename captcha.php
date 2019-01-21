@@ -15,7 +15,7 @@
 
 class KCAPTCHA {
     // generates keystring and image
-    function KCAPTCHA() {
+    function __construct() {
         ////////////////////////////////////////////////////////////
         // Настройки CAPTCHA                                      //
         ////////////////////////////////////////////////////////////
